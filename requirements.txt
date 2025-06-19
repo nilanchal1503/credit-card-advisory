@@ -86,4 +86,6 @@ streamlit
 langchain
 serpapi
 python-dotenv
+serpapi==0.6.0
+
 
