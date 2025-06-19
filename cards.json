@@ -1,0 +1,202 @@
+[
+  {
+    "name": "HDFC Millennia Credit Card",
+    "issuer": "HDFC",
+    "annual_fee": 1000,
+    "rewards": "cashback",
+    "benefits": ["Amazon vouchers", "lounge access"],
+    "eligibility": {"income": 25000},
+    "image_url": "https://th.bing.com/th/id/OIP.2zhIesh3fCK5s-g8keqiUQHaE6?r=0&rs=1&pid=ImgDetMain",
+    "apply_link": "https://example.com/apply/hdfc"
+  },
+  {
+    "name": "SBI SimplyCLICK Credit Card",
+    "issuer": "SBI",
+    "annual_fee": 499,
+    "rewards": "e-commerce rewards",
+    "benefits": ["fuel surcharge waiver"],
+    "eligibility": {"income": 20000},
+    "image_url": "https://img.freepik.com/premium-vector/blue-credit-card-design_48190-327.jpg",
+    "apply_link": "https://example.com/apply/sbi"
+  },
+  {
+    "name": "Lifestyle Perks Card",
+    "issuer": "ICICI Bank",
+    "annual_fee": 1000,
+    "benefits": ["lifestyle", "fashion", "cashback"],
+    "rewards": "5% cashback on Myntra, Ajio, and Zomato",
+    "eligibility": { "income": 30000 },
+    "image_url": "https://img.freepik.com/premium-vector/credit-card_48190-180.jpg?w=740",
+    "apply_link": "https://example.com/icici-lifestyle"
+  },
+  {
+    "name": "Fuel Saver Plus",
+    "issuer": "BPCL SBI Card",
+    "annual_fee": 500,
+    "benefits": ["fuel", "cashback"],
+    "rewards": "4.25% cashback on petrol at BPCL outlets",
+    "eligibility": { "income": 20000 },
+    "image_url": "https://image.freepik.com/free-vector/red-credit-card_48190-563.jpg",
+    "apply_link": "https://example.com/bpcl-sbi"
+  },
+  {
+    "name": "SuperMart Cashback Card",
+    "issuer": "HDFC Bank",
+    "annual_fee": 750,
+    "benefits": ["groceries", "cashback", "utilities"],
+    "rewards": "3% cashback on groceries and utility bill payments",
+    "eligibility": { "income": 25000 },
+    "image_url": "https://static.vecteezy.com/system/resources/thumbnails/008/490/148/small_2x/credit-card-transparent-background-png.png",
+    "apply_link": "https://example.com/hdfc-supermart"
+  },
+  {
+    "name": "Travel Explorer",
+    "issuer": "Axis Bank",
+    "annual_fee": 1500,
+    "benefits": ["travel", "lounges", "hotels"],
+    "rewards": "Complimentary domestic lounge access + hotel discounts",
+    "eligibility": { "income": 40000 },
+    "image_url": "https://cdn.pixabay.com/photo/2014/10/30/14/13/credit-card-509324__340.png",
+    "apply_link": "https://example.com/axis-travel"
+  },
+  {
+    "name": "Digital First Card",
+    "issuer": "OneCard",
+    "annual_fee": 0,
+    "benefits": ["no annual fee", "metal card", "smart control"],
+    "rewards": "1% base cashback with app-based card management",
+    "eligibility": { "income": 25000 },
+    "image_url": "https://th.bing.com/th/id/OIP.Vx1C-7N_zs9dFMY--rhCowHaFx?r=0&w=1920&h=1497&rs=1&pid=ImgDetMain",
+    "apply_link": "https://example.com/onecard"
+  },
+  {
+    "name": "Gamer’s Reward Pass",
+    "issuer": "Yes Bank",
+    "annual_fee": 1000,
+    "benefits": ["gaming", "entertainment", "cashback"],
+    "rewards": "Up to ₹2000 back monthly on Steam, PlayStation, and OTT",
+    "eligibility": { "income": 30000 },
+    "image_url": "https://img.freepik.com/premium-vector/credit-card-multicolor-template-vector-with-abstract-design_70347-4505.jpg",
+    "apply_link": "https://example.com/gaming-pass"
+  },
+  {
+    "name": "UberCommute Card",
+    "issuer": "Kotak Mahindra Bank",
+    "annual_fee": 499,
+    "benefits": ["ride cashback", "transport", "commute"],
+    "rewards": "₹50 cashback per ₹500 spent on Uber and Ola",
+    "eligibility": { "income": 22000 },
+    "image_url": "https://img.freepik.com/premium-vector/credit-card-multicolor-template-vector-with-abstract-design_70347-4505.jpg",
+    "apply_link": "https://example.com/kotak-uber"
+  },
+  {
+    "name": "HealthCare Shield",
+    "issuer": "HSBC Bank",
+    "annual_fee": 700,
+    "benefits": ["health", "pharmacy", "insurance"],
+    "rewards": "2% cashback on health-related spends + free health checkups",
+    "eligibility": { "income": 30000 },
+    "image_url": "https://purepng.com/public/uploads/large/credit-card-cnv.png",
+    "apply_link": "https://example.com/hsbc-health"
+  },
+  {
+    "name": "Student Smart Card",
+    "issuer": "SBI Bank",
+    "annual_fee": 299,
+    "benefits": ["students", "recharge", "food"],
+    "rewards": "₹25 cashback on mobile/DTH recharges and food delivery",
+    "eligibility": { "income": 10000 },
+    "image_url": "https://img.freepik.com/premium-vector/red-credit-card_48190-316.jpg?w=360",
+    "apply_link": "https://example.com/sbi-student"
+  },
+  {
+    "name": "Corporate Travel Pro",
+    "issuer": "Amex",
+    "annual_fee": 3500,
+    "benefits": ["business", "airline points", "lounges"],
+    "rewards": "3X points on flights + 6 international lounge visits",
+    "eligibility": { "income": 60000 },
+    "image_url": "https://static.vecteezy.com/system/resources/previews/008/489/893/original/credit-card-transparent-background-png.png",
+    "apply_link": "https://example.com/amex-corp"
+  },
+  {
+    "name": "Ecom Express Card",
+    "issuer": "Flipkart Axis",
+    "annual_fee": 500,
+    "benefits": ["e-commerce", "shopping", "cashback"],
+    "rewards": "5% cashback on Flipkart, Myntra & 1.5% elsewhere",
+    "eligibility": { "income": 25000 },
+    "image_url": "https://cardmaven.in/wp-content/uploads/2023/11/Flipkart-Axis-Bank-Credit-Card.png",
+    "apply_link": "https://example.com/flipkart-card"
+  },
+  {
+    "name": "PetrolBuddy Card",
+    "issuer": "IndusInd Bank",
+    "annual_fee": 799,
+    "benefits": ["fuel", "cashback", "maintenance"],
+    "rewards": "2.5% fuel surcharge waiver + garage discounts",
+    "eligibility": { "income": 28000 },
+    "image_url": "https://th.bing.com/th/id/OIP.fJoa0NW4bpatxwX0djPV-QHaEx?r=0&rs=1&pid=ImgDetMain",
+    "apply_link": "https://example.com/indusind-fuel"
+  },
+  {
+    "name": "MovieStar Card",
+    "issuer": "RBL Bank",
+    "annual_fee": 350,
+    "benefits": ["movies", "snacks", "weekend"],
+    "rewards": "Free movie ticket every month + food court offers",
+    "eligibility": { "income": 23000 },
+    "image_url": "https://i.colnect.net/f/1528/437/Movistar-Plus.jpg",
+    "apply_link": "https://example.com/rbl-movie"
+  },
+  {
+    "name": "Global Explorer",
+    "issuer": "Standard Chartered",
+    "annual_fee": 2000,
+    "benefits": ["travel", "international", "shopping"],
+    "rewards": "2% cashback on global spends + Forex waiver",
+    "eligibility": { "income": 50000 },
+    "image_url": "https://th.bing.com/th/id/OIP.58F2bZ0uUcLEtnFFPj0KYgAAAA?r=0&rs=1&pid=ImgDetMain",
+    "apply_link": "https://example.com/stan-global"
+  },
+  {
+    "name": "Rewards Max Pro",
+    "issuer": "ICICI Bank",
+    "annual_fee": 1200,
+    "benefits": ["supermarket", "electronics", "cashback"],
+    "rewards": "2% cashback on Reliance, Croma, Big Bazaar",
+    "eligibility": { "income": 32000 },
+    "image_url": "https://www.icicibank.com/content/dam/icicibank/india/managed-assets/images/cards/parakram-card.png",
+    "apply_link": "https://example.com/icici-reward"
+  },
+  {
+    "name": "Axis Flipkart Credit Card",
+    "issuer": "Axis",
+    "annual_fee": 500,
+    "rewards": "shopping cashback",
+    "benefits": ["Flipkart discounts", "dining perks"],
+    "eligibility": {"income": 25000},
+    "image_url": "https://credittales.in/wp-content/uploads/2022/11/Axis-Bank-Flipkart-Credit-Card.png",
+    "apply_link": "https://example.com/apply/axis"
+  },
+  {
+    "name": "ICICI Platinum Credit Card",
+    "issuer": "ICICI",
+    "annual_fee": 0,
+    "rewards": "basic rewards",
+    "benefits": ["railway surcharge waiver"],
+    "eligibility": {"income": 15000},
+    "image_url": "https://www.paisabazaar.com/wp-content/uploads/2019/08/ICICI-Platinum-Chip-Credit-Card.png",
+    "apply_link": "https://example.com/apply/icici"
+  },
+  {
+    "name": "Amazon Pay ICICI Credit Card",
+    "issuer": "ICICI",
+    "annual_fee": 0,
+    "rewards": "Amazon cashback",
+    "benefits": ["no cost EMI", "fuel surcharge waiver"],
+    "eligibility": {"income": 15000},
+    "image_url": "https://cardinsider.com/wp-content/uploads/2021/06/Amazon-Pay-ICICI-Bank-Credit-Card.png",
+    "apply_link": "https://example.com/apply/amazon"
+  }
+]
