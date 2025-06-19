@@ -84,7 +84,6 @@ yarl==1.20.1
 zstandard==0.23.0
 streamlit
 langchain
-serpapi
 python-dotenv
 serpapi==0.6.0
 
