@@ -20,6 +20,8 @@ the card reccomendation system
 3. then a form on ui
 4. then filling form, the entered data gets transferd to the the logic where it drives the right data from db and displays over .
 
+whatsapp intigration : added with twilio api and flask , creating a no. and getting responses.
+
 that is it , below this is the redme file and this was just a aprt explained in easy language , i learned  a lot from this project 
 
 
