@@ -4,6 +4,6 @@ langchain-community==0.3.25
 langchain-core==0.3.65
 langchain-text-splitters==0.3.8
 python-dotenv==1.1.0
-serpapi==0.1.5
+serpapi>=0.1.4
 openai==1.86.0
 requests==2.32.4
